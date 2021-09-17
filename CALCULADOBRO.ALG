@@ -6,10 +6,10 @@ Var
 
 Inicio
 
-Escreva("Digite um numero aqui: ")
+Escreva("Digite um número: ")
 Leia(NUM)
 DOBRO <- 2 * NUM
-Escreva("O dobro numero lido foi:", DOBRO)
+Escreva("O dobro do número lido foi:", DOBRO)
 
 
 Fimalgoritmo
