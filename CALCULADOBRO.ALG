@@ -6,7 +6,7 @@ Var
 
 Inicio
 
-Escreva("Digite um numero: ")
+Escreva("Digite um numero aqui: ")
 Leia(NUM)
 DOBRO <- 2 * NUM
 Escreva("O dobro numero lido foi:", DOBRO)
